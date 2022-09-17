@@ -1,0 +1,1 @@
+export { default as musicService } from "./music.service"
